@@ -19,6 +19,8 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp 
 <br></p>
 
+<h2> 🐥 Activity 🐥 </h2>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duckbillLvr&layout=compact&theme=swift&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=uhyeon7399">
