@@ -23,7 +23,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duckbillLvr&layout=compact&theme=swift&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=uhyeon7399">
-
-<br><br><br><br><br><br><br><br><br><br>
+<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=uhyeon7399">  
+<br><br><br><br><br><br><br><br>
+<h4> 문제를 해결할때의 짜릿함을 위해 열심히 공부하자🐤 to 🐔🎈<br><br>
+  🔑 One day One commit! </h4>
+  
+<br>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FduckbillLvr&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
