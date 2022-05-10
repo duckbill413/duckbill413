@@ -21,7 +21,7 @@
 
 <h2> 🐥 Activity 🐥 </h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duckbillLvr&layout=compact&theme=swift&langs_count=8&hide=jupyternotebook)](https://github.com/duckbillLvr/duckbillLvr)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duckbillLvr&layout=compact&theme=swift&langs_count=8&hide=jupyter notebook)](https://github.com/duckbillLvr/duckbillLvr)
 
 <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=uhyeon7399">  
 <br><br><br><br><br><br><br><br>
