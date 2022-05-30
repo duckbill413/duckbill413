@@ -1,7 +1,7 @@
 <h2> 🐣 Hi there 🐣</h2>
 <span> 안녕하세요! 세종대학교 컴퓨터공학과 duckbillLvr입니다! <br><br>
-<p> 백엔드 기술에 대하여 관심있어요!<br><br>
-알고리즘과 다양한 기술 소식을 접하고 사용해보고 있어요. </span>
+
+알고리즘과 다양한 언어 및 기술을 사용해보고 있어요. </span>
 <br><br>
 
 <h2> 🐥 Tools 🐥 </h2>
@@ -25,8 +25,7 @@
 
 <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=uhyeon7399">  
 <br><br><br><br><br><br><br><br>
-<h4> 문제 의 짜릿함을 위해 열심히 공부하자🐤 to 🐔🎈<br><br>
-  🔑 One day One commit! </h4>
+<h4> 문제 해결의 짜릿함을 위해 열심히 공부하자🐤 to 🐔🎈<br><br>
   
 <br>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FduckbillLvr&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
