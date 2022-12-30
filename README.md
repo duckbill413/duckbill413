@@ -1,5 +1,5 @@
 <h2> 🐣 Hi there 🐣</h2>
-<span> 안녕하세요! 세종대학교 컴퓨터공학과 duckbillLvr입니다! <br><br>
+<span> 안녕하세요! 세종대학교 컴퓨터공학과 duckbill413입니다! <br><br>
 
 알고리즘과 다양한 언어 및 기술을 사용해보고 있어요. </span>
 <br><br>
