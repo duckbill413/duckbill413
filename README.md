@@ -30,7 +30,7 @@
 
 <h2> 🐥 Activity 🐥 </h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duckbillLvr&layout=compact&theme=swift&langs_count=8&hide=jupyter%20notebook)](https://github.com/duckbill413/duckbill413)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duckbill413&layout=compact&theme=swift&langs_count=8&hide=jupyter%20notebook)](https://github.com/duckbill413/duckbill413)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duckbillLvr&layout=compact&theme=swift&langs_count=8)](https://github.com/duckbillLvr/duckbillLvr)-->
 
 <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=uhyeon7399">  
