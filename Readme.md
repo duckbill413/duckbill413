@@ -20,6 +20,7 @@
 ![Javascript](https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white)
   
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
+![VueJS](https://img.shields.io/badge/Vue.js-6DB33F?style=flat-square&logo=Vue.js&logoColor=white)
   
 #### DevOps
 ![Amazon](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white)
