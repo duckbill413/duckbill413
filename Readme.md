@@ -20,6 +20,7 @@
 ![C-Sharp](https://img.shields.io/badge/C%20Sharp-239120?style=flat-square&logo=C%20Sharp&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white)
   
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![VueJS](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
   
