@@ -8,20 +8,20 @@
 ## 🐥 Stacks 🐥
 ### Main Language & Frameworks
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)
-![MySql](https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white) 
   
 ![Spring-boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
+
+![MySql](https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white) 
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white)
 
 #### Sub Language & Frameworks
 ![dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white)  
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
-![C-Sharp](https://img.shields.io/badge/C%20Sharp-239120?style=flat-square&logo=C%20Sharp&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white)
   
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![VueJS](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
   
 #### DevOps
