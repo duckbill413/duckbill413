@@ -5,10 +5,8 @@
   
 알고리즘과 다양한 언어 및 기술을 사용해보고 있어요.  
 
-**기술 블로그**  
-[![velog](https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@duckbill)  
+> ***기술 블로그*** [![velog](https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@duckbill)  
 
-  
 ## 🐥 Stacks 🐥
 ### Main Language & Frameworks
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
