@@ -4,6 +4,10 @@
 자바 스프링을 중심으로 백엔드 기술을 공부하고 있습니다.  
   
 알고리즘과 다양한 언어 및 기술을 사용해보고 있어요.  
+
+**기술 블로그**  
+[![velog](https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@duckbill)  
+
   
 ## 🐥 Stacks 🐥
 ### Main Language & Frameworks
