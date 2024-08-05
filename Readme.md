@@ -36,35 +36,16 @@
 
 ## 🐥 Stacks 🐥
 
-### Main Language & Frameworks
+### Main Skills
+[![Main Languages](https://skillicons.dev/icons?i=java,py,spring&theme=light)](https://skillicons.dev)  
+[![Main DB](https://skillicons.dev/icons?i=mysql,mongodb,redis&theme=light)](https://skillicons.dev)  
 
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)
-
-![Spring-boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
-
-![MySql](https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white)
-
-#### Sub Language & Frameworks
-
-![dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white)  
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
-![Javascript](https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white)
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white)
-![VueJS](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
+#### Sub Skills
+[![Sub Languages](https://skillicons.dev/icons?i=c,cs,dart,js,flutter,vue&theme=light&perline=4)](https://skillicons.dev)  
+[![Sub Skill](https://skillicons.dev/icons?i=kafka&theme=light)](https://skillicons.dev)  
 
 #### DevOps
-
-![Amazon](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Ubuntu&logoColor=white)
-
-<!-- ![Kafka](https://img.shields.io/badge/Kafka-232F3E?style=flat-square&logo=Ubuntu&logoColor=white) -->
-
-<!--![Github](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)-->
+[![DevOps](https://skillicons.dev/icons?i=aws,docker,ubuntu,githubactions,gitlab,prometheus,grafana&theme=light&perline=4)](https://skillicons.dev) 
 
 ## 🐥 Activity 🐥
 
