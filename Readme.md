@@ -36,16 +36,24 @@
 
 ## 🐥 Stacks 🐥
 
-### Main Skills
-[![Main Languages](https://skillicons.dev/icons?i=java,py,spring&theme=light)](https://skillicons.dev)  
-[![Main DB](https://skillicons.dev/icons?i=mysql,mongodb,redis&theme=light)](https://skillicons.dev)  
-
-#### Sub Skills
-[![Sub Languages](https://skillicons.dev/icons?i=c,cs,dart,js,flutter,vue&theme=light&perline=4)](https://skillicons.dev)  
-[![Sub Skill](https://skillicons.dev/icons?i=kafka&theme=light)](https://skillicons.dev)  
-
-#### DevOps
-[![DevOps](https://skillicons.dev/icons?i=aws,docker,ubuntu,githubactions,gitlab,prometheus,grafana&theme=light&perline=4)](https://skillicons.dev) 
+<div style="display: flex; justify-content: space-between;">
+  <div style="flex: 1; padding-right: 10px;">
+    <h3>Main Skills</h3>
+    <img src="https://skillicons.dev/icons?i=java,py,spring&theme=light" alt="Main Languages">
+    <br>
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis&theme=light" alt="Main DB">
+  </div>
+  <div style="flex: 1; padding-left: 10px;">
+    <h3>Sub Skills</h3>
+    <img src="https://skillicons.dev/icons?i=c,cs,dart,js,flutter,vue&theme=light&perline=4" alt="Sub Languages">
+    <br>
+    <img src="https://skillicons.dev/icons?i=kafka&theme=light" alt="Sub Skill">
+  </div>
+</div>
+<div>
+  <h3>DevOps</h3>
+  <img src="https://skillicons.dev/icons?i=aws,docker,ubuntu,githubactions,gitlab,prometheus,grafana&theme=light&perline=4" alt="DevOps">
+</div>
 
 ## 🐥 Activity 🐥
 
