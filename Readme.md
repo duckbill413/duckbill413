@@ -57,13 +57,12 @@
 
 ![DevOps](https://skillicons.dev/icons?i=aws,docker,ubuntu,githubactions,gitlab,prometheus,grafana&theme=light&perline=4)
 
-</div>
-
 ---
 
 [![Top Langs](https://github-readme-stats-sigma-seven.vercel.app/api/top-langs/?username=duckbill413&layout=compact&theme=swift&langs_count=8&hide=jupyter%20notebook,css,html)](https://github.com/duckbill413/duckbill413)
-
 ![baekjoon](http://mazassumnida.wtf/api/v2/generate_badge?boj=uhyeon7399)
+
+</div>
 
 문제 해결의 짜릿함을 위해 열심히 공부하자🐤 to 🐔🎈
 
