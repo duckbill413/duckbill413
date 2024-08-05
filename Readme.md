@@ -1,4 +1,8 @@
-## 🐣 Hi there 🐣
+<!--타이틀 부분-->
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=F7DC6F&height=200&section=header)
+
+<div align=center>
 
 안녕하세요! 고라파덕입니다!
 
@@ -10,7 +14,9 @@
 
 ## Blog
 
-> **_Velog 기술 블로그_**<br>[![velog](https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@duckbill)
+**_Velog 기술 블로그_**<br>[![velog](https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@duckbill)
+
+</div>
 
 ## Activity
 
@@ -34,6 +40,8 @@
 - 세종대학교 (2023. 8 졸업)
 - 삼성청년SW아카데미 (2023. 7 ~ 2024. 6)
 
+<div align="center">
+
 ## 🐥 Stacks 🐥
 
 ### Main Skills
@@ -50,10 +58,13 @@
 
 [![DevOps](https://skillicons.dev/icons?i=aws,docker,ubuntu,githubactions,gitlab,prometheus,grafana&theme=light&perline=4)]
 
+</div>
+
 ---
 
-<img src="https://github-readme-stats-sigma-seven.vercel.app/api/top-langs/?username=duckbill413&layout=compact&theme=swift&langs_count=8&hide=jupyter%20notebook,css,html" alt="Top Languages">
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=uhyeon7399" alt="Baekjoon Badge">
+[![Top Langs](https://github-readme-stats-sigma-seven.vercel.app/api/top-langs/?username=duckbill413&layout=compact&theme=swift&langs_count=8&hide=jupyter%20notebook,css,html)](https://github.com/duckbill413/duckbill413)
+
+![baekjoon](http://mazassumnida.wtf/api/v2/generate_badge?boj=uhyeon7399)
 
 문제 해결의 짜릿함을 위해 열심히 공부하자🐤 to 🐔🎈
 
