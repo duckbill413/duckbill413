@@ -51,7 +51,7 @@
 
 #### Sub Skills
 
-![Sub Languages](https://skillicons.dev/icons?i=c,cs,dart,js,flutter,vue,kafka&theme=light&perline=4)
+![Sub Languages](https://skillicons.dev/icons?i=dart,js,cpp,flutter,vue,kafka&theme=light&perline=3)
 
 #### DevOps
 
