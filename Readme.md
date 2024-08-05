@@ -46,17 +46,16 @@
 
 ### Main Skills
 
-[![Main Languages](https://skillicons.dev/icons?i=java,py,spring&theme=light)]  
-[![Main DB](https://skillicons.dev/icons?i=mysql,mongodb,redis&theme=light)]
+![Main Languages](https://skillicons.dev/icons?i=java,py,spring&theme=light)  
+![Main DB](https://skillicons.dev/icons?i=mysql,mongodb,redis&theme=light)
 
 #### Sub Skills
 
-[![Sub Languages](https://skillicons.dev/icons?i=c,cs,dart,js,flutter,vue&theme=light&perline=4)]  
-[![Sub Skill](https://skillicons.dev/icons?i=kafka&theme=light)]
+![Sub Languages](https://skillicons.dev/icons?i=c,cs,dart,js,flutter,vue,kafka&theme=light&perline=4)
 
 #### DevOps
 
-[![DevOps](https://skillicons.dev/icons?i=aws,docker,ubuntu,githubactions,gitlab,prometheus,grafana&theme=light&perline=4)]
+![DevOps](https://skillicons.dev/icons?i=aws,docker,ubuntu,githubactions,gitlab,prometheus,grafana&theme=light&perline=4)
 
 </div>
 
