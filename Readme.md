@@ -36,27 +36,20 @@
 
 ## 🐥 Stacks 🐥
 
-<table style="border-collapse: collapse; width: 100%;">
-  <tr>
-    <td style="width: 50%; padding: 0 30px; border: none; vertical-align: top;">
-      <h3>Main Skills</h3>
-      <img src="https://skillicons.dev/icons?i=java,py,spring&theme=light" alt="Main Languages">
-      <br>
-      <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis&theme=light" alt="Main DB">
-    </td>
-    <td style="width: 50%; padding: 0 30px; border: none; vertical-align: top;">
-      <h3>Sub Skills</h3>
-      <img src="https://skillicons.dev/icons?i=c,cs,dart,js,flutter,vue&theme=light&perline=4" alt="Sub Languages">
-      <br>
-      <img src="https://skillicons.dev/icons?i=kafka&theme=light" alt="Sub Skill">
-    </td>
-  </tr>
-</table>
+### Main Skills
 
-<div>
-  <h3>DevOps</h3>
-  <img src="https://skillicons.dev/icons?i=aws,docker,ubuntu,githubactions,gitlab,prometheus,grafana&theme=light&perline=4" alt="DevOps">
-</div>
+[![Main Languages](https://skillicons.dev/icons?i=java,py,spring&theme=light)](https://skillicons.dev)  
+[![Main DB](https://skillicons.dev/icons?i=mysql,mongodb,redis&theme=light)](https://skillicons.dev)
+
+#### Sub Skills
+
+[![Sub Languages](https://skillicons.dev/icons?i=c,cs,dart,js,flutter,vue&theme=light&perline=4)](https://skillicons.dev)  
+[![Sub Skill](https://skillicons.dev/icons?i=kafka&theme=light)](https://skillicons.dev)
+
+#### DevOps
+
+[![DevOps](https://skillicons.dev/icons?i=aws,docker,ubuntu,githubactions,gitlab,prometheus,grafana&theme=light&perline=4)](https://skillicons.dev)
+
 ## 🐥 Activity 🐥
 
 [![Top Langs](https://github-readme-stats-sigma-seven.vercel.app/api/top-langs/?username=duckbill413&layout=compact&theme=swift&langs_count=8&hide=jupyter%20notebook,css,html)](https://github.com/duckbill413/duckbill413)
