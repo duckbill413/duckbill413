@@ -16,22 +16,22 @@
 
 **_Velog 기술 블로그_**<br>[![velog](https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@duckbill)
 
-</div>
 
 ## Activity
+</div>
 
 ### Projects
 
-- [Soup](https://github.com/duckbill413/soup)
+- **[Soup](https://github.com/duckbill413/soup)**
   - Spring 공부를 처음 시작하는 개발자를 위한 Spring Project 스타터
   - 삼성청년SW아카데미 자율 프로젝트 우수상
-- [Zooting](https://github.com/duckbill413/zooting)
+- **[Zooting](https://github.com/duckbill413/zooting)**
   - WebRTC 기술을 활용하여 사람들이 동물상 가면을 쓴 상태로 미팅을 즐길 수 있는 서비스
   - 삼성청년SW아카데미 공통 프로젝트 우수상
-- Enjoytrip
+- **Enjoytrip**
   - 동시 편집 기능을 제공하여 친구들과 함께 여행을 계획할 수 있도록 돕는 서비스
   - 삼성청년SW아카데미 1학기 프로젝트 우수상 수상
-- [Dishcovery](https://github.com/capstone-miso/miso-server)
+- **[Dishcovery](https://github.com/capstone-miso/miso-server)**
   - 공무원 업무추진비 내역을 이용한 맛집 추천 서비스
   - 세종대학교 2023 제15회 창의설계경진대회 우수상 수상
 
